@@ -1,10 +1,23 @@
-## Atomic Notes are recognized as three parts;
+
+# Folder Structure
+
+- Files - ...
+
+- Reference Notes - ...
+
+- Templates - ...
+
+- Zettelkasten (Atomics) - ...
+
+# Zettelkasten (Atomic Notes)
+
+### Atomic Notes are recognized as three parts;
 
 1. **Smart notes are** Q.I.E.C (Questions, Ideas, Evidence, Conclusions) formatted.
 2. **Smart notes are** atomic. The size and content of the notes matter and show me as specific as possible in concise and a descriptive format.
 3. **Smart notes are** connected and can link together to form more atomic notes and larger structurely supported summaries.
 
-## Break the text down into the Q.I.E.C Format:
+### Break the text down into the Q.I.E.C Format:
 
 **Questions:** underline the question.
 **Ideas:** place a dot next to ideas.
@@ -15,7 +28,7 @@ Additional notes;
 - What question is this evidence trying to answer?
 - What other questions can the evidence be applied to?
 
-## Reorganize to Compass Directional Format (CDF)
+### Reorganize to Compass Directional Format (CDF)
 
 **Atomic Idea:** "X"
 - **North:** Where does **X** come from?
@@ -31,3 +44,8 @@ Additional notes;
 - **West:** "Systems thinking"
 - **East:** "Goal-setting sets direction BEFORE systems"
 
+# Frameworks
+
+Break down the problem into a goal-orientated statement.
+Example:
+"profit = unit * cost". As units and/or costs go up, profit goes up. Nothing more, nothing less.

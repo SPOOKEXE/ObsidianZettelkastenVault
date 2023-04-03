@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "866d0dd217630d20",
+        "id": "441cd79eee0b028a",
         "type": "tabs",
         "children": [
           {
-            "id": "b8327d48b34e627b",
+            "id": "647a3b1947fe29e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic-Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17df5d1a1d89afc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frameworks.md",
+                "file": "GUIDE.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic-Notes.md",
+                "file": "GUIDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic-Notes.md",
+                "file": "GUIDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic-Notes.md"
+                "file": "GUIDE.md"
               }
             }
           }
@@ -158,13 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8327d48b34e627b",
+  "active": "a70347808b095775",
   "lastOpenFiles": [
-    "Frameworks.md",
-    "Atomic-Notes.md",
-    "Templates",
-    "Files",
-    "Reference Notes",
-    "Zettelkasten (Atomic Ideas)"
+    "Guide/2_Frameworks.md",
+    "Guide/1_Atomic-Notes.md",
+    "GUIDE.md",
+    "Guide/0_Folders.md",
+    "Guide",
+    "Zettelkasten (Atomic Ideas)/Algorithms/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/S.C.P - Secure Contain Protect/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Robotics/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Roblox Development/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Project Management/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Programming Languages/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Physics/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Operating Systems/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Neuroscience/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Neural Networks/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Mathematics/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Korean (Writing & Speaking)/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Japanese (Writing & Speaking)/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Information Technology/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Hacking/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Game Design & Development/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Encryption & Obfuscation/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Electronics/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Digital Forensics/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Cybersecurity/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Computer Networking/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Computer Design/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Robotics",
+    "Zettelkasten (Atomic Ideas)/Algorithms",
+    "Zettelkasten (Atomic Ideas)/Information Technology",
+    "Zettelkasten (Atomic Ideas)/Mathematics",
+    "Zettelkasten (Atomic Ideas)/Game Design",
+    "Zettelkasten (Atomic Ideas)/Game Design & Development",
+    "Zettelkasten (Atomic Ideas)/Encryption & Obfuscation",
+    "Zettelkasten (Atomic Ideas)/Hacking",
+    "Zettelkasten (Atomic Ideas)/Korean (Writing & Speaking)"
   ]
 }
