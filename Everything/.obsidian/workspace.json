@@ -11,8 +11,24 @@
             "id": "b8327d48b34e627b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Atomic-Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17df5d1a1d89afc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frameworks.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atomic-Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atomic-Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Atomic-Notes.md"
+              }
             }
           }
         ]
@@ -138,11 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a70347808b095775",
+  "active": "b8327d48b34e627b",
   "lastOpenFiles": [
+    "Frameworks.md",
+    "Atomic-Notes.md",
     "Templates",
     "Files",
     "Reference Notes",
-    "Zettelkasten"
+    "Zettelkasten (Atomic Ideas)"
   ]
 }
