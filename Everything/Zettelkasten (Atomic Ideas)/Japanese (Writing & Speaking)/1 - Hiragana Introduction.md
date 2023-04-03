@@ -1,0 +1,11 @@
+Hiragana is the most common script out of the three scripts in Japanese. This is because its used to write functional words, like grammatical particles, and are commonly found at the end of adjectives and verbs.
+
+There are also lots of verbs written in Hiragana rather than Kanji.
+Technically, Hiragana characters can also be used to substitute Kanji characters that you don't know how to write, but Kanji should primarily be used.
+
+There are 46 Hiragana characters and are commonly arranged as the following:
+![[HiraganaCharacterTable.png]]
+(read right to left)
+
+
+

@@ -1,13 +1,10 @@
 
 # Folder Structure
 
-- Files - ...
-
-- Reference Notes - ...
-
-- Templates - ...
-
-- Zettelkasten (Atomics) - ...
+- **Files** - container for images.
+- **Reference Notes** - used to reference books, articles, etc.
+- **Templates** - container for "template" notes
+- **Zettelkasten (Atomics)** - contains atomic "idea" notes
 
 # Zettelkasten (Atomic Notes)
 
@@ -47,5 +44,17 @@ Additional notes;
 # Frameworks
 
 Break down the problem into a goal-orientated statement.
-Example:
-"profit = unit * cost". As units and/or costs go up, profit goes up. Nothing more, nothing less.
+
+**Example:**
+```
+The framework "profit = unit * cost".
+
+As units and/or costs increase, profit increase, and vise versa for decreasing.
+Nothing more, nothing less.
+
+This is simple framework describes what influences profit.
+It would be either the fluctuation in units or the change in cost.
+
+This lets you bring any driving point back to to this core "framework" of the problem that is being analyzed and allows a concrete flow of direction in said conversation and/or analysis.
+```
+
