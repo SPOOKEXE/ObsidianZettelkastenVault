@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3b2d2855ca5bb49c",
+        "id": "26c4c5679a0c2465",
         "type": "tabs",
         "children": [
           {
-            "id": "d73d3ae840b966a8",
+            "id": "8a5f5544907e577b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -123,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -140,13 +140,19 @@
       "obsidian-journey-plugin:Find Journey": false
     }
   },
-  "active": "d73d3ae840b966a8",
+  "active": "8a5f5544907e577b",
   "lastOpenFiles": [
-    "Zettelkasten (Atomic Ideas)/Japanese (Writing & Speaking)/1.0 - Hiragana Introduction.md",
+    "Zettelkasten (Atomic Ideas)/University Content/__marker__.md",
+    "Reference Notes/__marker__.md",
+    "__marker__.md",
+    "Templates/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/Robotics/__marker__.md",
+    "Zettelkasten (Atomic Ideas)/2023-04-07.md",
+    "Untitled.canvas",
     "Zettelkasten (Atomic Ideas)/Japanese (Writing & Speaking)/1.2 - Hiragana K-Column.md",
+    "Zettelkasten (Atomic Ideas)/Japanese (Writing & Speaking)/1.0 - Hiragana Introduction.md",
     "Zettelkasten (Atomic Ideas)/Japanese (Writing & Speaking)/1.1 - Hiragana Vowels.md",
     "Zettelkasten (Atomic Ideas)/Japanese (Writing & Speaking)/0.0 - Japanese Introduction.md",
-    "Untitled.canvas",
     "Files/Japanese (Writing & Speaking)/JapaneseIntroduction.png",
     "Files/Japanese (Writing & Speaking)/HiraganaCharacterTable.png",
     "Untitled 1.canvas",
@@ -165,7 +171,6 @@
     "Guide",
     "Zettelkasten (Atomic Ideas)/Algorithms/__marker__.md",
     "Zettelkasten (Atomic Ideas)/S.C.P - Secure Contain Protect/__marker__.md",
-    "Zettelkasten (Atomic Ideas)/Robotics/__marker__.md",
     "Zettelkasten (Atomic Ideas)/Roblox Development/__marker__.md",
     "Zettelkasten (Atomic Ideas)/Project Management/__marker__.md",
     "Zettelkasten (Atomic Ideas)/Programming Languages/__marker__.md",
@@ -175,10 +180,6 @@
     "Zettelkasten (Atomic Ideas)/Neural Networks/__marker__.md",
     "Zettelkasten (Atomic Ideas)/Mathematics/__marker__.md",
     "Zettelkasten (Atomic Ideas)/Korean (Writing & Speaking)/__marker__.md",
-    "Zettelkasten (Atomic Ideas)/Japanese (Writing & Speaking)/__marker__.md",
-    "Zettelkasten (Atomic Ideas)/Information Technology/__marker__.md",
-    "Zettelkasten (Atomic Ideas)/Hacking/__marker__.md",
-    "Zettelkasten (Atomic Ideas)/Game Design & Development/__marker__.md",
     "Zettelkasten (Atomic Ideas)/Robotics",
     "Zettelkasten (Atomic Ideas)/Algorithms",
     "Zettelkasten (Atomic Ideas)/Information Technology",
